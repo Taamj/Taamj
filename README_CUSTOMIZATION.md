@@ -5,7 +5,7 @@ This guide will help you customize your portfolio README to match your personal 
 ## 🎨 Sections to Customize
 
 ### 1. Header & Typing Animation
-**Location**: Lines 3-5
+**Location**: Lines 1-5
 
 Update the typing animation text to match your titles/roles:
 ```markdown
@@ -15,7 +15,7 @@ lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Th
 Replace with your own titles separated by semicolons and using `+` for spaces.
 
 ### 2. About Me Section
-**Location**: Lines 13-21
+**Location**: Lines 13-22
 
 Update these points to reflect your current status:
 - 🔭 **Currently Working On**: Add your current projects

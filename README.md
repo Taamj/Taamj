@@ -2,7 +2,7 @@
   
 # 👋 Welcome to My Digital Space!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Taamj&color=2e9ef7&style=flat-square&label=Profile+Views)](https://github.com/Taamj)
 
@@ -78,7 +78,7 @@ I'm a passionate developer who loves to build innovative solutions and explore c
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Taamj&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/Taamj)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Taamj&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/Taamj)
 
 </div>
 
